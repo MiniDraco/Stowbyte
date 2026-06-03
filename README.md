@@ -2,6 +2,21 @@
 
 **The cure for budget builds with one fast drive.**
 
+### ➡️ [Download Stowbyte for Windows](https://github.com/MiniDraco/Stowbyte/releases/latest)
+No install, no .NET required — download the `.exe`, double-click, done.
+
+<!-- Screenshots go here: drop grid.png / settings.png / tray.png into screenshots/ and uncomment.
+<p align="center">
+  <img src="screenshots/grid.png" alt="Stowbyte tray grid" width="420"><br>
+  <em>Your apps at a glance — green is on the fast drive, blue is frozen on the big one.</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/settings.png" alt="Stowbyte settings" width="360">
+  <img src="screenshots/tray.png" alt="Stowbyte in the system tray" width="220">
+</p>
+-->
+
 Got a small fast SSD (C:) and a big slow drive (D:)? Stowbyte lets you install programs
 wherever you like, then **freeze** the ones you're not using over to the roomy drive — leaving
 a transparent link behind so every shortcut, launcher, and registry path still works. When you
