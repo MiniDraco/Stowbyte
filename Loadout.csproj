@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <AssemblyName>Stowbyte</AssemblyName>
+    <RootNamespace>Loadout</RootNamespace>
+    <Product>Stowbyte</Product>
+    <AssemblyTitle>Stowbyte</AssemblyTitle>
+    <Company>minidraco711</Company>
+    <Authors>minidraco711</Authors>
+    <Version>0.6.0</Version>
+  </PropertyGroup>
+
+</Project>

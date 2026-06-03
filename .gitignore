@@ -1,0 +1,16 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local app config (never shipped — lives in %AppData%\Stowbyte anyway)
+config.json
+
+# OS junk
+Thumbs.db
+desktop.ini
