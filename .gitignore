@@ -1,17 +1,58 @@
-# Build output
-bin/
-obj/
-publish/
-
-# Visual Studio / Rider
-.vs/
-.idea/
-*.user
-*.suo
-
-# Local app config (never shipped — lives in %AppData%\Stowbyte anyway)
-config.json
-
-# OS junk
+# deps / envs
+node_modules/
+.next/
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+# build outputs
+dist/
+build/
+out/
+outputs/
+output/
+.cache/
+*.tsbuildinfo
+# models / weights
+models/
+model/
+weights/
+checkpoints/
+*.gguf
+*.onnx
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.pkl
+# large binaries / archives / media
+*.exe
+*.dll
+*.so
+*.dylib
+*.7z
+*.zip
+*.rar
+*.tar
+*.gz
+*.apk
+*.webm
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.mp3
+*.wav
+*.flac
+# secrets / local
+.env
+.env.*
+*.local
+*.log
+.DS_Store
 Thumbs.db
-desktop.ini
